@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![MasterHead](./assets/banner.png)](https://github.com/mquhuy)
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center"> ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) </div>
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mquhuy&show_icons=true)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mquhuy) -->
